@@ -1,0 +1,6 @@
+apply plugin: 'groovy'
+
+import org.opwo.gradle.Metalink
+
+// Create a task using the task type
+tasks.register('metalink', Metalink) {fileSet = 'test'; url='http://zad-opwo.com/download'; outputFile = 'zad-opwo.xml'}

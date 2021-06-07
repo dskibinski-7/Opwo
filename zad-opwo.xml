@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metalink xlmns='urn:ietf:params:xml:ns:metalink'>
+  <published>2021/06/02 12:16:01</published>
+  <file name='w_podkatalogu.txt'>
+    <size>1</size>
+    <hash type='md5'>cfcd208495d565ef66e7dff9f98764da</hash>
+    <uri>http://zad-opwo.com/download/katalog/w_podkatalogu.txt</uri>
+  </file>
+  <file name='test1.txt'>
+    <size>9</size>
+    <hash type='md5'>3127de067e5a229266fd79c99dc72046</hash>
+    <uri>http://zad-opwo.com/download/1.txt</uri>
+  </file>
+  <file name='test2.txt'>
+    <size>5</size>
+    <hash type='md5'>5d41402abc4b2a76b9719d911017c592</hash>
+    <uri>http://zad-opwo.com/download/2.txt</uri>
+  </file>
+</metalink>
